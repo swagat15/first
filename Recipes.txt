@@ -6,6 +6,8 @@ kheer
 rice
 Pasta
 
+beans
+pizza
 
 
 Thank you:)
